@@ -1,0 +1,9 @@
+{
+    "editor.wordWrap": "on",
+    "files.associations": {
+        " \"*.css\"": "\"tailwind\""
+    },
+    "editor.quickSuggestions": {
+        "strings": "on"
+    }
+}
